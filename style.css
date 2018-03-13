@@ -113,8 +113,14 @@ h2 {
 		border: solid white 2px;
 	}
 
+	a:active {
+		border: solid white 2px;
+	}
+
 	h1 {
 		padding: 0 0;
 		margin: 0 0;
 	}
+
+
 }
