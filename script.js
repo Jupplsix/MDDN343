@@ -6,7 +6,7 @@ var project1Button = document.querySelector("#project1Button");
 
 function resizelanding() {
 	var displayWidth = window.innerWidth;
-	if(displayWidth >= 680) {
+	if(displayWidth >= 670) {
 		var displayHeight = window.innerHeight;
 		displayHeight = displayHeight + "px";
 		introductionPage.style.height = displayHeight;
